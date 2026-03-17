@@ -1,0 +1,10 @@
+{
+  "name": "firestore-seeder",
+  "version": "1.0.0",
+  "main": "seed.js",
+  "license": "MIT",
+  "dependencies": {
+    "firebase-admin": "^11.0.0",
+    "node-fetch": "^2.6.7"
+  }
+}
